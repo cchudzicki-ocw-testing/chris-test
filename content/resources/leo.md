@@ -3,8 +3,8 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/best-course-evah/screen-shot-2022-03-07-at-24338-pm.png
-file_type: image/png
+file: /courses/best-course-evah/leo.jpg
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: ''
 resourcetype: Image
-title: Screen Shot 2022-03-07 at 2.43.38 PM.png
-uid: 777d7605-fbef-47d1-99c2-28553824c90c
+title: leo.jpg
+uid: 023d4b1a-9bca-4cc4-809d-197d37ff5674
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
