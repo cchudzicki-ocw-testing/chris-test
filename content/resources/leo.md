@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/best-course-evah/leo.jpg
+file: /courses/best-course-ever/leo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/best-course-evah/screen-shot-2022-03-07-at-24338-pm.png
+file: /courses/best-course-ever/screen-shot-2022-03-07-at-24338-pm.png
 file_type: image/png
 image_metadata:
   caption: ''
