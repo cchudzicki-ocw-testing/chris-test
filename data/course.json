@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "3001",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "chris-test"
+  },
+  "course_image": {
+    "content": "",
+    "website": "chris-test"
+  },
+  "course_title": "Chris Test",
+  "course_description": "",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "chris-test"
+  },
+  "learning_resource_types": [],
+  "site_uid": "9562912e-e73c-4d01-97a0-a03747362039"
+}
